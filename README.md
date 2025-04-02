@@ -42,7 +42,7 @@ The dashboard data is generated using SQL queries from the Pizza Sales SQL Queri
 ## Interactive Dashboards & Images
 ![Pizza sales Dashboard](https://github.com/user-attachments/assets/36146976-8f40-4d00-960a-4115336bec15)
 ![Pizza sales Dashboard 2](https://github.com/user-attachments/assets/1d173ea5-5343-4631-bace-78473ea9f725)
-- For an interactive visualization, download Power BI Desktop and use the associated Power BI file.
+- For an interactive visualization, download Power BI Desktop and use the associated Power BI file. <a href="https://github.com/Akshay-Rana13/Pizza-Sales-Insights-Using-SQL-Power-BI/blob/main/pizza%20sales.pbix">Interactive Dashboard</a>
 
 ## Insights from the Dashboard
 - Orders are highest on Friday and Saturday evenings.
